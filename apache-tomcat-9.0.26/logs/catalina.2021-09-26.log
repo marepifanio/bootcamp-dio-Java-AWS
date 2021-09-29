@@ -1,0 +1,180 @@
+26-Sep-2021 10:34:45.949 SEVERE [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at [C:/Users/marce/Desktop/workspace/bootcamp-gft-Java-AWS/springboot/apache-tomcat-9.0.26/temp]
+26-Sep-2021 10:34:47.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.26
+26-Sep-2021 10:34:47.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 16 2019 15:51:39 UTC
+26-Sep-2021 10:34:47.010 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.26.0
+26-Sep-2021 10:34:47.011 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+26-Sep-2021 10:34:47.011 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Sep-2021 10:34:47.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Sep-2021 10:34:47.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.11
+26-Sep-2021 10:34:47.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.11+9-LTS-194
+26-Sep-2021 10:34:47.013 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Sep-2021 10:34:47.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26
+26-Sep-2021 10:34:47.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26
+26-Sep-2021 10:34:47.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Sep-2021 10:34:47.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Sep-2021 10:34:47.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Sep-2021 10:34:47.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:/Users/marce/Desktop/workspace/bootcamp-gft-Java-AWS/springboot/apache-tomcat-9.0.26/conf/logging.properties
+26-Sep-2021 10:34:47.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Sep-2021 10:34:47.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Sep-2021 10:34:47.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Sep-2021 10:34:47.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+26-Sep-2021 10:34:47.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Sep-2021 10:34:47.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:/Users/marce/Desktop/workspace/bootcamp-gft-Java-AWS/springboot/apache-tomcat-9.0.26
+26-Sep-2021 10:34:47.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:/Users/marce/Desktop/workspace/bootcamp-gft-Java-AWS/springboot/apache-tomcat-9.0.26
+26-Sep-2021 10:34:47.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:/Users/marce/Desktop/workspace/bootcamp-gft-Java-AWS/springboot/apache-tomcat-9.0.26/temp
+26-Sep-2021 10:34:47.022 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk-11.0.11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\marce\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\marce\bin;C:\Program Files\Java\jdk-11.0.11\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\MongoDB\Server\3.6\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Apache\apache-maven-3.8.2\bin;C:\Users\marce\AppData\Local\Microsoft\WindowsApps;C:\Program Files\heroku\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;.]
+26-Sep-2021 10:34:48.059 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+26-Sep-2021 10:34:48.713 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+26-Sep-2021 10:34:48.724 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2.776] milliseconds
+26-Sep-2021 10:34:48.900 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Sep-2021 10:34:48.901 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.26]
+26-Sep-2021 10:34:48.953 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\springboot-0.0.1-SNAPSHOT.war]
+26-Sep-2021 10:35:03.548 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Sep-2021 10:35:04.042 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [474] milliseconds.
+26-Sep-2021 10:35:04.099 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\springboot-0.0.1-SNAPSHOT.war] has finished in [15.146] ms
+26-Sep-2021 10:35:04.106 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\springboot.war]
+26-Sep-2021 10:35:23.656 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Sep-2021 10:35:23.693 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\springboot.war] has finished in [19.586] ms
+26-Sep-2021 10:35:23.697 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\docs]
+26-Sep-2021 10:35:23.805 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\docs] has finished in [107] ms
+26-Sep-2021 10:35:23.807 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\examples]
+26-Sep-2021 10:35:25.312 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\examples] has finished in [1.501] ms
+26-Sep-2021 10:35:25.313 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\host-manager]
+26-Sep-2021 10:35:26.054 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\host-manager] has finished in [740] ms
+26-Sep-2021 10:35:26.055 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\manager]
+26-Sep-2021 10:35:26.255 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\manager] has finished in [200] ms
+26-Sep-2021 10:35:26.264 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\ROOT]
+26-Sep-2021 10:35:26.494 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\ROOT] has finished in [229] ms
+26-Sep-2021 10:35:26.504 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+26-Sep-2021 10:35:26.532 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+26-Sep-2021 10:35:26.544 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [37.820] milliseconds
+26-Sep-2021 10:36:01.965 SEVERE [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at [C:/Users/marce/Desktop/workspace/bootcamp-gft-Java-AWS/springboot/apache-tomcat-9.0.26/temp]
+26-Sep-2021 10:36:02.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.26
+26-Sep-2021 10:36:02.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 16 2019 15:51:39 UTC
+26-Sep-2021 10:36:02.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.26.0
+26-Sep-2021 10:36:02.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+26-Sep-2021 10:36:02.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Sep-2021 10:36:02.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Sep-2021 10:36:02.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.11
+26-Sep-2021 10:36:02.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.11+9-LTS-194
+26-Sep-2021 10:36:02.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Sep-2021 10:36:02.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26
+26-Sep-2021 10:36:02.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26
+26-Sep-2021 10:36:02.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Sep-2021 10:36:02.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Sep-2021 10:36:02.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Sep-2021 10:36:02.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:/Users/marce/Desktop/workspace/bootcamp-gft-Java-AWS/springboot/apache-tomcat-9.0.26/conf/logging.properties
+26-Sep-2021 10:36:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Sep-2021 10:36:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Sep-2021 10:36:02.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Sep-2021 10:36:02.612 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+26-Sep-2021 10:36:02.612 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Sep-2021 10:36:02.612 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:/Users/marce/Desktop/workspace/bootcamp-gft-Java-AWS/springboot/apache-tomcat-9.0.26
+26-Sep-2021 10:36:02.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:/Users/marce/Desktop/workspace/bootcamp-gft-Java-AWS/springboot/apache-tomcat-9.0.26
+26-Sep-2021 10:36:02.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:/Users/marce/Desktop/workspace/bootcamp-gft-Java-AWS/springboot/apache-tomcat-9.0.26/temp
+26-Sep-2021 10:36:02.613 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk-11.0.11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\marce\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\marce\bin;C:\Program Files\Java\jdk-11.0.11\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\MongoDB\Server\3.6\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Apache\apache-maven-3.8.2\bin;C:\Users\marce\AppData\Local\Microsoft\WindowsApps;C:\Program Files\heroku\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;.]
+26-Sep-2021 10:36:03.323 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+26-Sep-2021 10:36:03.806 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector[HTTP/1.1-8080]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:983)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:533)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:1059)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:584)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:607)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:304)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:474)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:455)
+		at java.base/sun.nio.ch.Net.bind(Net.java:447)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+		at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:80)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:230)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:213)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1124)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1137)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:574)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:74)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:980)
+		... 13 more
+26-Sep-2021 10:36:03.809 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+26-Sep-2021 10:36:03.815 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector[AJP/1.3-8009]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:983)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:533)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:1059)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:584)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:607)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:304)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:474)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:455)
+		at java.base/sun.nio.ch.Net.bind(Net.java:447)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+		at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:80)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:230)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:213)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1124)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1137)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:574)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:980)
+		... 13 more
+26-Sep-2021 10:36:03.820 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1.854] milliseconds
+26-Sep-2021 10:36:03.934 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Sep-2021 10:36:03.934 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.26]
+26-Sep-2021 10:36:03.975 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\springboot-0.0.1-SNAPSHOT.war]
+26-Sep-2021 10:36:14.730 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Sep-2021 10:36:15.237 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [485] milliseconds.
+26-Sep-2021 10:36:15.300 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\springboot-0.0.1-SNAPSHOT.war] has finished in [11.324] ms
+26-Sep-2021 10:36:15.305 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\springboot.war]
+26-Sep-2021 10:36:36.270 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Sep-2021 10:36:36.314 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\springboot.war] has finished in [21.007] ms
+26-Sep-2021 10:36:36.317 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\docs]
+26-Sep-2021 10:36:36.455 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\docs] has finished in [138] ms
+26-Sep-2021 10:36:36.457 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\examples]
+26-Sep-2021 10:36:38.254 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\examples] has finished in [1.797] ms
+26-Sep-2021 10:36:38.256 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\host-manager]
+26-Sep-2021 10:36:38.770 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\host-manager] has finished in [513] ms
+26-Sep-2021 10:36:38.770 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\manager]
+26-Sep-2021 10:36:38.990 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\manager] has finished in [219] ms
+26-Sep-2021 10:36:38.991 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\ROOT]
+26-Sep-2021 10:36:39.131 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marce\Desktop\workspace\bootcamp-gft-Java-AWS\springboot\apache-tomcat-9.0.26\webapps\ROOT] has finished in [141] ms
+26-Sep-2021 10:36:39.156 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [35.335] milliseconds
+26-Sep-2021 10:36:39.165 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: NET_Bind
+		at java.base/java.net.PlainSocketImpl.bind0(Native Method)
+		at java.base/java.net.PlainSocketImpl.socketBind(PlainSocketImpl.java:132)
+		at java.base/java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:436)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:381)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:243)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:584)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:721)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:667)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:344)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:475)
+26-Sep-2021 10:36:39.167 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+26-Sep-2021 10:36:39.168 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+26-Sep-2021 10:36:39.169 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Sep-2021 10:36:39.419 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+26-Sep-2021 10:36:39.419 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+26-Sep-2021 10:36:39.420 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+26-Sep-2021 10:36:39.420 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
